@@ -1,0 +1,56 @@
+[
+  {
+    "id": "000000000",
+    "date_created": "2025-03-29",
+    "note": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+    "amount": 10.00
+  },
+  {
+    "id": "000000001",
+    "date_created": "2025-04-01",
+    "note": "payment for moneys for bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+    "amount": 25.50
+  },
+  {
+    "id": "000000002",
+    "date_created": "2025-04-01",
+    "note": "walletaddress:bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdd",
+    "amount": 2.50
+  },
+  {
+    "id": "000000003",
+    "date_created": "2025-04-02",
+    "note": "buyingmoneysforbc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdd",
+    "amount": 0.50
+  },
+  {
+    "id": "000000004",
+    "date_created": "2025-04-02",
+    "note": "12345678",
+    "amount": 306.00
+  },
+  {
+    "id": "000000005",
+    "date_created": "2025-04-02",
+    "note": "walletaddress:bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdd",
+    "amount": 207.00
+  },
+  {
+    "id": "000000006",
+    "date_created": "2025-04-02",
+    "note": "buyingmoneysforbc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdd",
+    "amount": 10.00
+  },
+  {
+    "id": "000000007",
+    "date_created": "2025-04-02",
+    "note": "payment for moneys for bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdd",
+    "amount": 0.01
+  },
+  {
+    "id": "000000008",
+    "date_created": "2025-04-02",
+    "note": "buying moneys for bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdd",
+    "amount": 1.00
+  }
+]
